@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build",
+    "now-build": "npm build && mv .vuepress/dist dist"
+  }
+}
