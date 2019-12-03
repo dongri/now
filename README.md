@@ -1,4 +1,4 @@
-# VuePress
+# Now
 ```
 $ yarn global add vuepress
 
